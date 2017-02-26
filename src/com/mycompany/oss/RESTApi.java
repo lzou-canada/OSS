@@ -1,4 +1,4 @@
-package backend.oss;
+package com.mycompany.oss;
 
 /**
  * Created by Fei Chen on 2/25/2017.
