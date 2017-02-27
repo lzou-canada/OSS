@@ -11,6 +11,7 @@ public enum RestApiType
     REST_API_TYPE_PUT(3, "Put"),
     REST_API_TYPE_DELETE(4,"Delete");
 
+    // add one line here
     private int index;
     private String name;
 
