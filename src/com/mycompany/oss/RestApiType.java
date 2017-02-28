@@ -5,6 +5,7 @@ package com.mycompany.oss;
  */
 public enum RestApiType
 {
+    // add one line in another repo -- the OSS repo
     REST_API_TYPE_UNKNOWN(0),
     REST_API_TYPE_POST(1,"Post"),
     REST_API_TYPE_GET(2,"Get"),
