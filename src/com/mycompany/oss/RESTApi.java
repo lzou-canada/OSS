@@ -12,6 +12,7 @@ public class RESTApi
     // add one line to RESTApi to move the PTS-199
     public RESTApi(String name, RestApiType restApiType)
     {
+        // add line A2 to move the PTS-200
         this.name = name;
         this.restApiType = restApiType;
     }
