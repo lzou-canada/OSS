@@ -5,8 +5,9 @@ package com.mycompany.oss;
  */
 public enum RestApiType
 {
+    // fixed the enum issue to move the PTS-199
     // add one line in another repo -- the OSS repo
-    REST_API_TYPE_UNKNOWN(0),
+    REST_API_TYPE_UNKNOWN(0, "Unknown"),
     REST_API_TYPE_POST(1,"Post"),
     REST_API_TYPE_GET(2,"Get"),
     REST_API_TYPE_PUT(3, "Put"),
