@@ -17,6 +17,7 @@ public enum RestApiType
     private int index;
     private String name;
 
+    // add one more line to move it further
     // add one line in RestApiType to move the feature-1
 
     RestApiType(int index, String name)
