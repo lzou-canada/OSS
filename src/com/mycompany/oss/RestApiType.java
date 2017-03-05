@@ -26,6 +26,7 @@ public enum RestApiType
         this.name = name;
     }
 
+    // add B1 to move the master branch
     public int getIndex()
     {
         return index;
