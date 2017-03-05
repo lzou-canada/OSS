@@ -21,6 +21,7 @@ public enum RestApiType
     // add one line in RestApiType to move the feature-1
 
 
+    // add A2 to move the PTS-200
     // add A1 to move the PTS-200
     RestApiType(int index, String name)
     {
