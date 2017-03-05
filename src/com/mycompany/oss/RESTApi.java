@@ -8,6 +8,7 @@ public class RESTApi
     String name;
     RestApiType restApiType;
 
+    // add line E1 to move the master
     // add line A5 to move the PTS-200
     // add line A4 to move the PTS-200
     // add line B5 to move the master
