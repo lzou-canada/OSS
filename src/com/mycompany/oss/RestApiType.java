@@ -24,6 +24,8 @@ public enum RestApiType
     // add A2 to move the PTS-200
     // add A1 to move the PTS-200
     // add something here in the file to see its file status color change
+    // have enabled the asterisk to indicate that the file is being modified
+    // this is another example
     RestApiType(int index, String name)
     {
         this.index = index;
